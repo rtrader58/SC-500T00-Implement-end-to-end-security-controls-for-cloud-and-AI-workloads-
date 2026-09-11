@@ -1,7 +1,5 @@
 # SC-500 Implement end‑to‑end security controls for cloud and AI workloads - Day 1 Errata
 
-# NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
-
 # Module 1 Lab: Identity Governance​ and Access Control
 
 ## Lab 01 – Configure Privileged Identity Management (45 Minutes)
@@ -57,7 +55,7 @@ Step 5: Paste from the resources tab your user1 in the search pane <br>
 Step 10: Paste from the resources tab your user1 in the search pane <br>
 Step 21: Paste from the resources tab your user2 in the search pane <br>
 
-### Exerdcise 3 - Store secrets and keys
+### Exercise 3 - Store secrets and keys
 
 No Errata <br>
 
@@ -78,5 +76,46 @@ No Errata <br>
 
 No Errata <br>
 
+# Module 3 Lab: Security Governance and Role Management​
 
+## Lab 03 - Configure Azure Policy and Role-Based Access Control (~ 60 Minutes)
 
+### Lab Setup
+ 
+Step 1: Credentials are at the top of the screen <br>
+Step 2: Choose your subscription, click Apply <br>
+Step 3: Paste into notepad first, replace key valut name then paste <br>
+Step 5: Do not paste Register <br>
+Step 9: The object ID is the value you saved in Step 3 <br>
+
+### Exercise 1 - Assign a built-in compliance policy
+
+No Errata <br>
+
+### Exercise 2 - Deploy a custom policy using Infrastructure as Code
+
+If still running, wait for the previous task to finish <br>
+
+### Exercise 3 - Create a custom security reviewer role
+
+Step 6: The permissions will be populated with a JSON in step 10 <br>
+
+### Exercise 4: Evaluate and remediate overprivileged access
+
+Step 8: There is currently no Access Review, you will create one in the next exercise <br>
+
+### Exercise 5 - Create and complete the access review
+
+Step 2: You may not be able to change the Duration <br>
+Step 7: Search for user2 that is located in the resources tab <br>
+Step 14: Select Azure resources to see the Access review <br>
+
+### Skip Exercise 6 - Fallback: remove the assignment directly
+
+### Exercise 7 - Verify the remediation
+
+No Errata <br>
+
+### Exercise 8 - Apply a resource lock
+
+No Errata <br>
