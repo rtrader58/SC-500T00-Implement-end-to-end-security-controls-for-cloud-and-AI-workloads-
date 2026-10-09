@@ -4,6 +4,7 @@
 Module 1 - Manage and implement authentication methods in Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/manage-implement-authentication-methods/ <br>
 Module 2 - Implement and configure Privileged Identity Management (PIM) - https://learn.microsoft.com/en-us/training/modules/implement-configure-privileged-identity-management/ <br>
 Module 3 - Authenticate your API plugin for declarative agents with secured APIs - https://learn.microsoft.com/en-us/training/modules/copilot-declarative-agent-api-plugin-auth/ <br>
+LAB - Configure Privileged Identity Management - ~45 Minutes
 ## Learning Path 2: Secure Azure Key Vault with defense in depth for the cloud and AI workloads - https://learn.microsoft.com/en-us/training/paths/configure-key-vault-security/
 Module 1 - Configure and secure Azure Key Vault - https://learn.microsoft.com/en-us/training/modules/configure-secure-key-vault/ <br>
 Module 2 - Manage keys and secrets in Azure Key Vault - https://learn.microsoft.com/en-us/training/modules/manage-keys-secrets-key-vault/ <br>
