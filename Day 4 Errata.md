@@ -98,7 +98,7 @@ Step 7: Set unmatched rull action to Deny not the Function rule <br>
 Step 1: Searrch for API Management Services <br>
 Step 3: Click Lab 4C API > Settings > Check Subscription required
 
-# Module 13: AI Security Monitoring with Defender for Cloud​ ~30 Minutes
+# Module 13: AI Security Monitoring with Defender for Cloud​
 
 ## Lab 11 - Explore Defender for Cloud Security Posture and CSPM ~75 Minutes
 
