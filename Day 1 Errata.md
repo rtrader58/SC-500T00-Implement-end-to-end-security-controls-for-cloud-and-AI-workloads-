@@ -17,7 +17,7 @@ Do step 1 of Exercise 1 before doing step 1 - Step 1: Requires MFA with use of a
 ### Exercise 3 - Request role activation
 
 Step 2 Requires MFA with use of an Authenticaton App on phone<br>
-Step 7: Paste the Justification in the Reaso box <br>
+Step 7: Paste the Justification in the Reason box <br>
 
 ### Exercise 4 - Approve the activation request
 
