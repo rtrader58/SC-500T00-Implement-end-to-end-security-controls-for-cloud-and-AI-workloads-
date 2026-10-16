@@ -1,7 +1,5 @@
 # SC-500 Implement end‑to‑end security controls for cloud and AI workloads - All Learning Paths Errata
 
-# Day 1 Errata
-
 # Module 1 Lab: Identity Governance​ and Access Control
 
 ## Lab 01 – Configure Privileged Identity Management (45 Minutes)
@@ -19,7 +17,7 @@ Do step 1 of Exercise 1 before doing step 1 - Step 1: Requires MFA with use of a
 ### Exercise 3 - Request role activation
 
 Step 2 Requires MFA with use of an Authenticaton App on phone<br>
-Step 7: Paste the Justification in the Reaso box <br>
+Step 7: Paste the Justification in the Reason box <br>
 
 ### Exercise 4 - Approve the activation request
 
@@ -390,6 +388,10 @@ Step 3: Click Lab 4C API > Settings > Check Subscription required
 
 ## Lab 11 - Explore Defender for Cloud Security Posture and CSPM ~75 Minutes
 
-### Lab Setup
+# Module 13: AI Security Monitoring with Defender for Cloud​
 
+## Lab 11 - Explore Defender for Cloud Security Posture and CSPM ~75 Minutes
 ### Note: Skip Lab 11 does not work as written
+### There is no data available - and every exercise starts with "If an ..." otherwise view available columns
+
+# Note there is no labs for Modules 14 and 15

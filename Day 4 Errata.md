@@ -102,26 +102,7 @@ Step 3: Click Lab 4C API > Settings > Check Subscription required
 
 ## Lab 11 - Explore Defender for Cloud Security Posture and CSPM ~75 Minutes
 
-### Lab Setup
-
-Step 3: Choose your subscription - select apply <br>
-Step 10: Before selecting Review + create, Set the VMAdmin password to the same as User1 > paste the information from the note above <br>
-
-### Exercise 1: Review the Preconfigured State
-
-No errata <br>
-
-### Exercise 2: Review Secure Score and Top Recommendations
-
-### Exercise 3: Assign and Review Regulatory Compliance
-
-### Exercise 4: Investigate CSPM Secret Scanning Findings
-
-### Exercise 5: Review Attack Path Analysis
-
-### Exercise 6: Assign Governance Ownership
-
-### Exercise 7: Optional Task: Review Multicloud Connector Scope
-
+### Note: Skip Lab 11 does not work as written
+### There is no data available - and every exercise starts with "If an ..." otherwise view available columns
 
 # Note there is no labs for Modules 14 and 15
